@@ -94,7 +94,7 @@ Mostram uma visão geral da área e te indicam por onde começar.
 
 - [Feministalk: Carreiras](https://www.twitch.tv/collections/cHX1ETLm6BaiEw) por [Feministech](https://feministech.github.io/);
 
-- [Front-end career](https://frontend.guide/), por [William Oliveira](http://woliveiras.com.br/); #PT-BR, #ENG;
+- [Front-end career](https://woliveiras.com.br/carreira-frontend/), por [William Oliveira](http://woliveiras.com.br/); #PT-BR, #ENG;
 
 - [Como se tornar um desenvolvedor Front End](https://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/), por [William Justen](https://willianjusten.com.br/);
 
